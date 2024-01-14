@@ -1,0 +1,103 @@
+
+/*******Output 1******
+ * *********Swagat he aapka Quiz game me!*********
+
+
+This quiz will cover basic java concepts
+
+Let's start then!! 
+
+*******Phela Padav*******
+
+
+Question 1: What does JDK stand for?    
+           a)Java Development Kit       
+           b)Java Runtime Environment   
+           c)Java Virtual Machine       
+
+Enter your answer: a
+
+Correct answer!!
++1 point
+
+*******Aagla Padav*******
+
+
+Question 2: What will be printed?
+int x = 5;
+double y = 2.5;
+System.out.println(x + y)
+
+Enter your answer: 7.5
+correct answer! 
++1 point
+
+
+
+*******Aagla Padav*******
+
+Let'see your IQ :)
+Question 3: If it's raining, should you take an umbrella?
+         a) Yes   b) No
+Enter your decision: a
+
+SAAT CRORE!!!!
++1 point :)
+
+
+Your Scores are(in points) : 3
+PS H:\Tanmay\3rd yr\6th sem\capabl\Projects\Java Quiz Adventure> 
+ 
+
+
+
+/*******Output 2******
+ * 
+ * *********Swagat he aapka Quiz game me!*********
+
+
+This quiz will cover basic java concepts
+
+Let's start then!!
+
+*******Phela Padav*******
+
+
+Question 1: What does JDK stand for?    
+           a)Java Development Kit       
+           b)Java Runtime Environment   
+           c)Java Virtual Machine       
+
+Enter your answer: a
+
+Correct answer!!
++1 point
+
+*******Aagla Padav*******
+
+
+Question 2: What will be printed?
+int x = 5;
+double y = 2.5;
+System.out.println(x + y)
+
+Enter your answer: 7.5
+correct answer! 
++1 point
+
+
+
+*******Aagla Padav*******
+
+Let'see your IQ :)
+Question 3: If it's raining, should you take an umbrella?
+         a) Yes   b) No
+Enter your decision: b
+
+
+aap Mumbai nahi aa sakte :(
+
+
+Your Scores are(in points) : 2
+PS H:\Tanmay\3rd yr\6th sem\capabl\Projects\Java Quiz Adventure> 
+*/
