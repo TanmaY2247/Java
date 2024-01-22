@@ -1,0 +1,22 @@
+Project Description:
+    
+    In this project, create a student grading system that allows
+    users to input student details and their scores for various
+    subjects. The system should calculate the overall grade for
+    each student based on their scores and display the result
+
+
+1.Input student details: Ask the user to enter the student's
+                        name, roll number, and the number of subjects.
+
+2.Input subject scores: Based on the number of subjects
+                    entered, ask the user to input the scores for each subject.
+                    Calculate overall grade: Calculate the overall grade for the
+                    student based on their scores. You can use a grading scale
+                    such as A+, A, B, C, D, and F.
+
+3.Display result: Display the student's name, roll number,
+                subject-wise scores, and overall grade.
+
+4.Repeat for multiple students Allow the user to input details
+                        scores for multiple students, and display the results for each student.
